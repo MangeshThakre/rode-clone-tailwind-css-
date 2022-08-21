@@ -10,7 +10,7 @@
  - Learned more about positioning the element.
 
 
-> #### This project took 5 hour to complete  
+> #### This project took 8 hour to complete  
 
  ##  _[live project link](https://rode-clone-tailwind-css.netlify.app/ "rode-clone-tailwind-css" )_
 
